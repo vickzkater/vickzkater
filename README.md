@@ -11,7 +11,7 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 
   <img align="right"  height="150" style="border-radius:70px;" src="https://avatars.githubusercontent.com/u/7297975?v=4">
@@ -29,7 +29,7 @@
   ![trophy](https://github-profile-trophy.vercel.app/?username=vickzkater&theme=nord)
   <br />
   
-  <a href="https://github.com/vickzkater/"><img alt="AlpetG Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vickzkater&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <br/> <a href="https://github.com/vickzkater/"><img alt="" src="https://komarev.com/ghpvc/?username=vickzkater" /></a>
+  <a href="https://github.com/vickzkater/"><img alt="Profile View" src="https://komarev.com/ghpvc/?username=vickzkater" /></a>
   
 </div>
 
