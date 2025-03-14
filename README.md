@@ -3,7 +3,7 @@
   <a href="https://github.com/vickzkater">
     <img height="155em" src="https://github-readme-stats.vercel.app/api?username=vickzkater&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickzkater&layout=compact&langs_count=7&theme=github_dark"/>
-    <img height="100em" src="https://github-readme-streak-stats.herokuapp.com?user=vickzkater&theme=github-dark-blue" />
+    <!--<img height="100em" src="https://github-readme-streak-stats.herokuapp.com?user=vickzkater&theme=github-dark-blue" /> -->
   </a>
 </div>
 <div style="display: inline_block"><br>
